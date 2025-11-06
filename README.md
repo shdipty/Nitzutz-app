@@ -4,17 +4,31 @@ A compassionate web-based mobile app providing instant, stigma-free mental healt
 
 ## Contributors
 
-| **Prakash Bhatta** | Lead Developer | [@prakas955](https://github.com/prakas955) |
-| **Shadia Rahman Dipty** | Cybersecurity & Documentation Specialist | [@shdipty](https://github.com/shdipty) |
-| **Akif Uddin Alvi** | Team Leader & Technical Coordinator | [@Akif-Uddin-Alvi](https://github.com/Akif-Uddin-Alvi) |
-| **Bishnu Prasad Lamsal** | Team Leader & Technical Coordinator | [@shubash367](https://github.com/shubash367) |
+| **🧠 Prakash Bhatta** | Lead Developer | [@prakas955](https://github.com/prakas955) |
+| **🔒 Shadia Rahman Dipty** | Cybersecurity & Documentation Specialist | [@shdipty](https://github.com/shdipty) |
+| **🧩 Akif Uddin Alvi** | Team Leader & Technical Coordinator | [@Akif-Uddin-Alvi](https://github.com/Akif-Uddin-Alvi) |
+| **🧪 Bishnu Prasad Lamsal** | Testing & Evaluation | [@shubash367](https://github.com/shubash367) |
 
-## Contribution Summary
 
-- **Prakash Bhatta:** Implemented the main technical features including chat interface, Gemini API integration, IndexedDB storage, crisis detection system, UI/UX design, and Netlify deployment.  
-- **Shadia Rahman Dipty:** Focused on strengthening cybersecurity aspects such as strengthened data privacy, conducted penetration testing on the web app to identify potential vulnerabilities, secured API key handling, and ensured local storage protection. Also Contributed to technical documentation, interface testing, and vulnerability assessment.  
-- **Akif Uddin Alvi:** Oversaw overall project direction, coordinated team communication, managed documentation structure, and refined AI prompt logic to align with project goals.  
-- **Bishnu Prasad Lamsal:** Conducted usability testing, validated data flow, reviewed conversation accuracy, and contributed to final quality assurance before submission.
+## 👩‍💻 Contribution Summary
+
+### 🧠 Prakash Bhatta — Lead Developer  
+Implemented the main technical features including chat interface, Gemini API integration, IndexedDB storage, crisis detection system, UI/UX design, and Netlify deployment.
+
+---
+
+### 🔒 Shadia Rahman Dipty — Cybersecurity & Documentation Specialist  
+Focused on cybersecurity by conducting penetration testing, enhancing data privacy, securing API keys, and improving local storage protection. Contributed to documentation and interface testing.
+
+---
+
+### 🧩 Akif Uddin Alvi — Team Leader & Technical Coordinator  
+Oversaw overall project direction, coordinated team communication, managed documentation structure, and refined AI prompt logic to align with project goals.
+
+---
+
+### 🧪 Bishnu Prasad Lamsal — Testing & Evaluation  
+Conducted usability testing, validated data flow, reviewed conversation accuracy, and contributed to final quality assurance before submission.
 
 
 
